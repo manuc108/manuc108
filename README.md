@@ -5,6 +5,6 @@
 - 📫 How to reach me: manu.v23csai@nst.rishihood.edu.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...I can play the flute and have a keen interest in music, swimming, reading ancient texts and Patanjali Yoga.
-👋 Hi, I’m @manuc108
+
 
 
