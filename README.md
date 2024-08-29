@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @manuc108
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Doing Btech in Computer Science and Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ...exploring innovative technologies, contributing to open-source projects, and engaging in meaningful discussions about AI and policy.
+- 🌱 I’m currently learning ...Doing Btech in Computer Science and Artificial Intelligence at Newton School of Technology x Rishihood University.
+- 💞️ I’m looking to collaborate on ...projects involving AI, web development, and open-source contributions.
+- 📫 How to reach me: manu.v23csai@nst.rishihood.edu.in
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...I can play the flute and have a keen interest in music, swimming, reading ancient texts and Patanjali Yoga.
+👋 Hi, I’m @manuc108
 
-<!---
-manuc108/manuc108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
