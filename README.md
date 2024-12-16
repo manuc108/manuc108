@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **projects involving AI, web development, and open-source contributions.**
 
-- 👨‍💻 All of my projects are available at  [https://my-portfolio-two-murex-26.vercel.app/](https://my-portfolio-two-murex-26.vercel.app/)
+- 👨‍💻 All of my projects are available at  [MyPortfolio](https://my-portfolio-two-murex-26.vercel.app/)
 
 - 📫 How to reach me **manu.v23csai@nst.rishihood.edu.in**
 
-- 📄 Know about my experiences (https://drive.google.com/drive/folders/1ZYycH5OeIRa4wcsYM8rfKR2-9zlBpPWF?usp=sharing)
+- 📄 Know about my experiences [Resume](https://shorturl.at/RYp13)
 
 - ⚡ Fun fact **I can play the flute and have a keen interest in music, swimming, reading ancient texts and Patanjali Yoga.**
 
