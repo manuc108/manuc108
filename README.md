@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manu.v23csai@nst.rishihood.edu.in**
 
-- 📄 Know about my experiences [Resume](https://shorturl.at/RYp13)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e8GhtV_yt3z2ynFVXd8ZmiZYLjowaBl9/view?usp=sharing)
 
 - ⚡ Fun fact **I can play the flute and have a keen interest in music, swimming, reading ancient texts and Patanjali Yoga.**
 
